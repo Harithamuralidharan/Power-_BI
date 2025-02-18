@@ -1,4 +1,4 @@
-# Power-BI-capstone-project
+# Power-BI  project
 
 ## Bank Loan Performance Analysis
 
